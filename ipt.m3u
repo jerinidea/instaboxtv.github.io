@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:0, group-title="Tamil", Isai Aruvi
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
+#EXTINF:0, group-title="Telugu", Isai Aruvi-2
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226303/1.m3u8
+#EXTINF:0, group-title="Hindi",& Pictures
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/01.m3u8
+#EXTINF:0, group-title="Hindi",& Pictures HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226203/01.m3u8
+#EXTINF:0, group-title="Hindi",& TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:0, group-title="Hindi",& TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
+#EXTINF:0, group-title="Tamil",??
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/1.m3u8
+#EXTINF:0, group-title="Telugu",10 TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/01.m3u8
+#EXTINF:0, group-title="Bangla",24 Ghanta
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/01.m3u8
+#EXTINF:0, group-title="English",360 TV
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/chunklist_w2073057097_b364000.m3u8
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",7S Music
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226213/1.m3u8
+#EXTINF:0, group-title="Hindi",9X Jalwa
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:0, group-title="Marathi",9X Jhakaas
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/01.m3u8
+#EXTINF:0, group-title="Hindi",9X Music
+http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
+#EXTINF:0, group-title="Punjabi",9X Tashan
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/01.m3u8
+#EXTINF:0, group-title="Hindi",9xM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/01.m3u8
+#EXTINF:0, group-title="English",9XO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/01.m3u8
+#EXTINF:0, group-title="Hindi",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Aaj Tak-2
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:0, group-title="Bangla",Aakaash
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/01.m3u8
+#EXTINF:0, group-title="Punjabi",Aan News
+http://cdn.samtv.ca/anntv/index.m3u8
+#EXTINF:0, group-title="Hindi",Aastha
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226069/01.m3u8
+#EXTINF:0, group-title="Hindi",Abhi Tak
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:0, group-title="Telugu",ABN News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226140/01.m3u8
+#EXTINF:0, group-title="Bangla",ABP Ananda
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/01.m3u8
+#EXTINF:0, group-title="Gujarati",ABP Asmita
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226264/1.m3u8
+#EXTINF:0, group-title="Marathi",ABP Majha
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/01.m3u8
+#EXTINF:0, group-title="Hindi",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0, group-title="Gujarati",ABP News Gujarati
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226264/index.m3u8
+#EXTINF:0, group-title="Malayalam",ACV
+http://acv.asianetmobiletvplus.online/webstreams/bswjiwcffddawtposxqwezovtyzttcss/chunks.m3u8
+#EXTINF:0, group-title="Malayalam",ACV News
+http://acv.asianetmobiletvplus.online/webstreams/sadsahvzghimaseiuxfwwqtfxsemiuhm/chunks.m3u8
+#EXTINF:0, group-title="Malayalam",ACV Utsav
+http://acv.asianetmobiletvplus.online/webstreams/mdmjoyquhlcfssxgduaquwcxcpfvadeu/chunks.m3u8
+#EXTINF:0, group-title="Malayalam",ACV Utsav Plus
+http://cdn.asianetmobiletvplus.online/channels/utsavplus_uabvnayzofwzljiquynxheertcwnvqte_hls/utsavplus_uabvnayzofwzljiquynxheertcwnvqte_profile2.m3u8
